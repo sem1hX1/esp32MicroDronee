@@ -411,7 +411,7 @@ MPU6050 YOK                    → PID'siz kaba kontrol modu
 
 | | | |
 |---|---|---|
-| ![Malzemeler](img/malzemeler.jpg) | ![3D Gövde](img/3dkit.jpg) | ![MOSFET](img/mosfetkonumlandırma.jpg) |
+| ![Malzemeler](esp32MicroDronee-main/img/malzemeler.jpg) | ![3D Gövde](img/3dkit.jpg) | ![MOSFET](img/mosfetkonumlandırma.jpg) |
 | *Gerekli Malzemeler* | *3D Basılı Çerçeve* | *MOSFET Yerleşimi* |
 | ![Üst Lehim](img/lehimlemetop.jpg) | ![Alt Lehim](img/lehimlemeback.jpg) | ![Python Kontrol](img/phyton%20control%20dashboard.jpg) |
 | *Üst Lehimleme* | *Alt Lehimleme* | *Python Kontrol Paneli* |
