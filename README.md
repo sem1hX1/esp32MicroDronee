@@ -411,11 +411,11 @@ MPU6050 YOK                    → PID'siz kaba kontrol modu
 
 | | | |
 |---|---|---|
-| ![Malzemeler](esp32MicroDronee-main/img/malzemeler.jpg) | ![3D Gövde](img/3dkit.jpg) | ![MOSFET](img/mosfetkonumlandırma.jpg) |
+| ![Malzemeler](esp32MicroDronee-main/img/malzemeler.jpg) | ![3D Gövde](esp32MicroDronee-main/img/3dkit.jpg) | ![MOSFET](esp32MicroDronee-main/img/mosfetkonumlandırma.jpg) |
 | *Gerekli Malzemeler* | *3D Basılı Çerçeve* | *MOSFET Yerleşimi* |
-| ![Üst Lehim](img/lehimlemetop.jpg) | ![Alt Lehim](img/lehimlemeback.jpg) | ![Python Kontrol](img/phyton%20control%20dashboard.jpg) |
+| ![Üst Lehim](esp32MicroDronee-main/img/lehimlemetop.jpg) | ![Alt Lehim](esp32MicroDronee-main/img/lehimlemeback.jpg) | ![Python Kontrol](esp32MicroDronee-main/img/phyton%20control%20dashboard.jpg) |
 | *Üst Lehimleme* | *Alt Lehimleme* | *Python Kontrol Paneli* |
-| ![Ön](img/front.jpg) | ![Üst](img/top.jpg) | ![Alt](img/bottom.jpg) |
+| ![Ön](esp32MicroDronee-main/img/front.jpg) | ![Üst](esp32MicroDronee-main/img/top.jpg) | ![Alt](esp32MicroDronee-main/img/bottom.jpg) |
 | *Ön Görünüm* | *Üst Görünüm* | *Alt Görünüm* |
 
 ---
